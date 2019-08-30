@@ -10,6 +10,7 @@
 #include <pcl/point_types.h>
 #include <algorithm>
 #include <map>
-
+#include <direct.h>
+#include <io.h>
 
 #endif //PCH_H
